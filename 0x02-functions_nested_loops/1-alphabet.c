@@ -5,10 +5,10 @@
  * *print_alphabet  - prints the lower case alphabet
  *
  *
- * Return: void 
+ * Return: void
  */
 
-void print_alphabet(void)
+void print_alphabe(void)
 {
 	char c = 'a';
 	int i;
