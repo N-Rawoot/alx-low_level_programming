@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*
+/**
  *main - prints the word Holberton
  *
  *Return: 0 on success execution.
