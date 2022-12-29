@@ -1,7 +1,5 @@
 #include "main.h"
 
-
-
 /*
  *main - prints the word Holberton
  *
